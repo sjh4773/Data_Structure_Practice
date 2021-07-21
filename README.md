@@ -1,1 +1,1 @@
-# Data_Structure_Practice
+# 파이썬 자료구조 및 알고리즘 공부
